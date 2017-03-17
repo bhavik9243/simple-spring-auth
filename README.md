@@ -1,2 +1,2 @@
 # simple-spring-auth
-Auth app using Spring MVC
+Simple auth app using Spring MVC and MySQL
